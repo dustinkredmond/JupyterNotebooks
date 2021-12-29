@@ -130,4 +130,6 @@ dmypy.json
 
 #IntelliJ Configuration
 .idea
+
+#Ignore actual Python files, since we're only concerned with .ipynb (Jupyter Notebooks)
 *.py
